@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I Am Naim Trabelsi
+
+* 💼 Always looking for a new better job🕵🏻
+* 👨‍💻 Full-Stack web developper 💻
+* 🤝 Looking to collaborate on projects👤
+* 💬 Ask me about any help  🧬
+
 
 <!--
 **Naim08Ar/Naim08Ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
