@@ -23,6 +23,17 @@
 
 
 
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naim08ar&show_icons=true&locale=en" alt="naim08ar" /></p>
+
+
+
+
+
+
 <!--
 **Naim08Ar/Naim08Ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
