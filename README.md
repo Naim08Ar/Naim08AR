@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Naîm</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **Python web App**
+- 🔭  **Python web App**
 -  💼 Always looking for a new better job🕵🏻
-
-- 🌱 I’m currently learning **DevOps**
+- 🌱  **DevOps**
 -  👨‍💻 Full-Stack web developper 💻
-
 - 💬 Ask me about **développement web**
 -  💬 Ask me about any help  🧬
--  🤝 Looking to collaborate on projects👤
+-  🤝 Web Design 👤
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
